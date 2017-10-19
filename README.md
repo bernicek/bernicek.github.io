@@ -6,6 +6,9 @@ It has the following Feautures:
 2. User login
 3. Ability to view  one’s recipes
 
-It should be done with HTML, CSS, JS
+It should be done usinh the following:
+HTML
+CSS
+JS
 
 
