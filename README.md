@@ -1,11 +1,11 @@
-Description	
+# Description	
 
 
 This is an application to manage collected awesome recipes and categories
 
 
 
-Features in Yummy Recipe
+# Features in Yummy Recipe
 
 
 
@@ -21,7 +21,7 @@ User can delete existing recipe
 User can delete existing category
 
 
-To build the project the following will be required:
+#To build the project the following will be required:
 
 
 HTML, CSS AND PYTHON
@@ -29,7 +29,6 @@ HTML, CSS AND PYTHON
 Create a pivotal tracker board to mapping all tasks
 
 Create a Git repository and clone it
-
 
 Create folders
 
